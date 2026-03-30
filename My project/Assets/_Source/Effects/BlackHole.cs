@@ -8,14 +8,4 @@ public class BlackHole : ItemEffect
    {
       inventory.ClearWhole();
    }
-
-   public void OnUse(Inventory inventory, ItemData item)
-   {
-      
-   }
-
-   public void OnDrop(Inventory inventory, ItemData item)
-   {
-      
-   }
 }
